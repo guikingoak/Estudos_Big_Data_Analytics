@@ -1,26 +1,27 @@
-#  Estudos em Apache Spark e Big Data Analytics
-📚 Descrição
-Este repositório tem como objetivo reunir anotações e exercícios práticos sobre processamento de dados em larga escala utilizando o Apache Spark e conceitos aplicados de Big Data Analytics.
+#  Estudos em Apache Spark — Processamento de Dados em Larga Escala
 
+Este repositório contém exercícios práticos, estudos e aplicações utilizando Apache Spark focados em processamento de dados em larga escala, análise de dados distribuída e conceitos aplicados de Big Data Analytics.
 
-🏗️ Tecnologias e Ferramentas
-🔥 Apache Spark (PySpark)
+📌 Objetivo
+Consolidar conhecimentos sobre processamento de dados distribuído com Apache Spark.
 
-🗄️ Big Data Processing
+Praticar transformações, ações e consultas em grandes volumes de dados.
 
-📊 Data Analytics
+Entender conceitos fundamentais como paralelismo, particionamento e otimização de jobs.
 
-🐍 Python para análise de dados
+Aplicar operações com RDDs, DataFrames e SparkSQL.
 
-☁️ Conceitos aplicados em ambientes de Cloud Computing
+📚 Conteúdo Desenvolvido
+🔸 Criação e manipulação de DataFrames no Spark
 
-🎯 Objetivos dos Estudos
-Compreender os fundamentos de processamento distribuído.
+🔸 Aplicação de filtros, seleções e ordenações em datasets
 
-Manipular grandes volumes de dados utilizando Spark.
+🔸 Operações de agregação e groupBy
 
-Realizar transformações, agregações e análises em datasets massivos.
+🔸 Joins e relacionamentos entre datasets no Spark
 
-Praticar conceitos de otimização, paralelismo e escalabilidade.
+🔸 Tratamento e transformação de dados
 
-Simular cenários reais de aplicações em Big Data Analytics.
+🔸 Consultas utilizando SparkSQL
+
+🔸 Leitura e escrita de arquivos em diferentes formatos: CSV, JSON
